@@ -1,2 +1,2 @@
-# fundamentos-react
+# Fundamentos React js
 Test of React Js fundamentals.
